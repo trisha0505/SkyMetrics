@@ -1,36 +1,154 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 SkyMetrics
 
-## Getting Started
+SkyMetrics is a modern analytics and visualization platform designed to transform raw data into actionable insights. The application provides interactive dashboards, data exploration tools, and real-time metrics to help users make informed decisions.
 
-First, run the development server:
+## 🚀 Live Demo
+
+🌐 https://skymetrics-rho.vercel.app/
+
+---
+
+## ✨ Features
+
+- 📈 Interactive analytics dashboard
+- 📊 Real-time data visualization
+- 🔍 Advanced data filtering and searching
+- 📉 Trend and performance analysis
+- 📱 Responsive design for desktop and mobile
+- ⚡ Fast and intuitive user experience
+- 🔐 Secure and scalable architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Chart.js / Recharts
+
+### Backend
+- Node.js / Express.js *(if applicable)*
+
+### Database
+- MongoDB / PostgreSQL *(if applicable)*
+
+### Deployment
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```bash
+SkyMetrics/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── services/
+│   ├── utils/
+│   └── assets/
+│
+├── package.json
+├── tailwind.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/skymetrics.git
+```
+
+### Navigate to the project directory
+
+```bash
+cd skymetrics
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The application will run at:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📸 Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+Add screenshots of:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Dashboard Overview
+- Analytics Page
+- Reports Section
+- Mobile View
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🎯 Use Cases
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Business Intelligence
+- Data Analytics
+- KPI Monitoring
+- Performance Tracking
+- Decision Support Systems
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🔮 Future Enhancements
+
+- AI-powered insights
+- Predictive analytics
+- Export reports to PDF/Excel
+- User authentication & role management
+- Custom dashboard creation
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+**Trisha Deshmukh**
+
+- GitHub: https://github.com/trisha0505
+- LinkedIn: Add your LinkedIn profile here
+
+---
+⭐ If you found this project useful, consider giving it a star!
