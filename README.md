@@ -96,31 +96,32 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Dashboard – Current Weather
 <p align="center">
-  <img src="./assets/screenshots/Dashboard.png" alt="Dashboard - Current Weather" width="800"/>
+  <img src="public/screenshots/dashboard.png" alt="Dashboard - Current Weather" width="800"/>
 </p>
 
 ### 🗺️ Travel Weather Planner
 <p align="center">
-  <img src="./assets/screenshots/Travel-planner.png" alt="Travel Weather Planner" width="800"/>
+  <img src="public/screenshots/travel-planner.png" alt="Travel Weather Planner" width="800"/>
 </p>
 
 ### 👕 Weather Alerts & What to Wear
 <p align="center">
-  <img src="./assets/screenshots/alert-outfit.png" alt="Weather Alerts and Outfit Suggestions" width="800"/>
+  <img src="public/screenshots/alerts-outfit.png" alt="Weather Alerts and Outfit Suggestions" width="800"/>
 </p>
 
 ### 📈 Temperature & Humidity Trends
 <p align="center">
-  <img src="./assets/screenshots/trends.png" alt="Temperature and Humidity Trends" width="800"/>
+  <img src="public/screenshots/trends.png" alt="Temperature and Humidity Trends" width="800"/>
 </p>
 
 ### 🌫️ Air Quality Index & 5-Day Forecast
 <p align="center">
-  <img src="./assets/screenshots/air-quality-forecast.png" alt="Air Quality Index and 5-Day Forecast" width="800"/>
+  <img src="public/screenshots/air-quality-forecast.png" alt="Air Quality Index and 5-Day Forecast" width="800"/>
 </p>
-
 ---
 
 ## 🎯 Use Cases
