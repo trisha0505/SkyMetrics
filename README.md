@@ -98,17 +98,17 @@ http://localhost:3000
 
 ### 🏠 Dashboard – Current Weather
 <p align="center">
-  <img src="./assets/screenshots/dashboard.png" alt="Dashboard - Current Weather" width="800"/>
+  <img src="./assets/screenshots/Dashboard.png" alt="Dashboard - Current Weather" width="800"/>
 </p>
 
 ### 🗺️ Travel Weather Planner
 <p align="center">
-  <img src="./assets/screenshots/travel-planner.png" alt="Travel Weather Planner" width="800"/>
+  <img src="./assets/screenshots/Travel-planner.png" alt="Travel Weather Planner" width="800"/>
 </p>
 
 ### 👕 Weather Alerts & What to Wear
 <p align="center">
-  <img src="./assets/screenshots/alerts-outfit.png" alt="Weather Alerts and Outfit Suggestions" width="800"/>
+  <img src="./assets/screenshots/alert-outfit.png" alt="Weather Alerts and Outfit Suggestions" width="800"/>
 </p>
 
 ### 📈 Temperature & Humidity Trends
@@ -166,7 +166,7 @@ This project is licensed under the MIT License.
 **Trisha Deshmukh**
 
 - GitHub: https://github.com/trisha0505
-- LinkedIn:linkedin.com/in/trisha-deshmukh-23b0a52b7/
+- LinkedIn: https://www.linkedin.com/in/trisha-deshmukh-23b0a52b7/
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
