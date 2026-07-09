@@ -96,21 +96,21 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
+
 
 ### 🏠 Dashboard – Current Weather
 <p align="center">
-  <img src="public/screenshots/dashboard.png" alt="Dashboard - Current Weather" width="800"/>
+  <img src="public/screenshots/Dashboard.png" alt="Dashboard - Current Weather" width="800"/>
 </p>
 
 ### 🗺️ Travel Weather Planner
 <p align="center">
-  <img src="public/screenshots/travel-planner.png" alt="Travel Weather Planner" width="800"/>
+  <img src="public/screenshots/Travel-planner.png" alt="Travel Weather Planner" width="800"/>
 </p>
 
 ### 👕 Weather Alerts & What to Wear
 <p align="center">
-  <img src="public/screenshots/alerts-outfit.png" alt="Weather Alerts and Outfit Suggestions" width="800"/>
+  <img src="public/screenshots/alert-outfit.png" alt="Weather Alerts and Outfit Suggestions" width="800"/>
 </p>
 
 ### 📈 Temperature & Humidity Trends
