@@ -96,12 +96,30 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-Add screenshots of:
+### 🏠 Dashboard – Current Weather
+<p align="center">
+  <img src="./assets/screenshots/dashboard.png" alt="Dashboard - Current Weather" width="800"/>
+</p>
 
-- Dashboard Overview
-- Analytics Page
-- Reports Section
-- Mobile View
+### 🗺️ Travel Weather Planner
+<p align="center">
+  <img src="./assets/screenshots/travel-planner.png" alt="Travel Weather Planner" width="800"/>
+</p>
+
+### 👕 Weather Alerts & What to Wear
+<p align="center">
+  <img src="./assets/screenshots/alerts-outfit.png" alt="Weather Alerts and Outfit Suggestions" width="800"/>
+</p>
+
+### 📈 Temperature & Humidity Trends
+<p align="center">
+  <img src="./assets/screenshots/trends.png" alt="Temperature and Humidity Trends" width="800"/>
+</p>
+
+### 🌫️ Air Quality Index & 5-Day Forecast
+<p align="center">
+  <img src="./assets/screenshots/air-quality-forecast.png" alt="Air Quality Index and 5-Day Forecast" width="800"/>
+</p>
 
 ---
 
@@ -148,7 +166,7 @@ This project is licensed under the MIT License.
 **Trisha Deshmukh**
 
 - GitHub: https://github.com/trisha0505
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn:linkedin.com/in/trisha-deshmukh-23b0a52b7/
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
